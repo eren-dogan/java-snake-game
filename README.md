@@ -1,1 +1,2 @@
-"# java-snake-game" 
+Welcome !!
+Download the game and enjoy.
